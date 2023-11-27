@@ -8,7 +8,7 @@
 
 [Youtube Video](https://youtu.be/V_F8zJv_IIg) <br>
 
-[![DOI](https://zenodo.org/badge/295188611.svg)](https://zenodo.org/badge/latestdoi/295188611)
+[![DOI](https://zenodo.org/badge/722772372.svg)](https://zenodo.org/doi/10.5281/zenodo.10208268)
 
 [![Build Status](https://travis-ci.org/karthikmp5/C.E.L.T_pro.svg?branch=master)](https://travis-ci.org/karthikmp5/C.E.L.T_pro)
 
