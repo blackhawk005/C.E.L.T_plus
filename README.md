@@ -6,7 +6,7 @@
 
 ## Watch how our application works: 
 
-[Youtube Video](https://youtu.be/k-cKfP59vlo) <br>
+[Youtube Video](https://youtu.be/Nn8MIIIMHpU) <br>
 
 [![DOI](https://zenodo.org/badge/722772372.svg)](https://zenodo.org/doi/10.5281/zenodo.10208268)
 
