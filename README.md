@@ -8,7 +8,7 @@
 
 [Youtube Video](https://youtu.be/k-cKfP59vlo) <br>
 
-[![DOI](https://zenodo.org/badge/295188611.svg)](https://zenodo.org/badge/latestdoi/295188611)
+[![DOI](https://zenodo.org/badge/722772372.svg)](https://zenodo.org/doi/10.5281/zenodo.10208268)
 
 [![Stars](https://img.shields.io/github/stars/blackhawk005/C.E.L.T_Plus)](https://img.shields.io/github/stars/blackhawk005/C.E.L.T_Plus)
 
@@ -25,10 +25,6 @@
 ![Closed Issues](https://img.shields.io/github/issues-closed-raw/karthikmp5/C.E.L.T_pro)
 
 ![CI/CD](https://img.shields.io/badge/CI/CD-Passing-brightgreen)
-
-
-
-
 
 
 ## What is C.E.L.T?
@@ -120,8 +116,4 @@ Common issues observed and solutions:<br>
 1. requirements.txt failing: this issue should no longer be seen, as we have used ~= to ensure your systems pick up versions compatible with the other packages. However, if you happen to see the issue, modify the requirements.txt file to use a more recent version.
 2. module manage.py not found: ensure you are inside the sentimental_analysis directory while attempting to run the module
 3. python was not found: we recommend using python3 as some of the modules are available only on Python3. You may either install Python3 or setup a virtual environment(we suggest the latter if you are currently running other applications on python2)
-Facing other issues with the application? Mail us - [teamsoftwareeng7@gmail.com](teamsoftwareeng7@gmail.com)
-
-
-				
-
+Facing other issues with the application? Mail us - [celtplus63@gmail.com](celtplus63@gmail.com)
