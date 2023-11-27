@@ -2,7 +2,7 @@
 
 # C.E.L.T: The Sentimental Analyser is now C.E.L.T Pro! 
 
-https://github.com/blackhawk005/C.E.L.T_plus/assets/63787850/b96ecd10-7084-4813-aa85-7a970f701134
+![C E L T_PLUS](https://github.com/blackhawk005/C.E.L.T_plus/assets/63787850/e35c3410-b85e-4d53-be89-12719e3c756f)
 
 ## Watch how our application works: 
 
