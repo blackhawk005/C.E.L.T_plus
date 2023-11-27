@@ -1,22 +1,22 @@
-# Contributing to SENG20-G19 SE_Project1
+# Contributing to C.E.L.T_Plus
 
-Follow the set of guidelines below to contribute to SENG20-G19 SE_Project1!
+Follow the set of guidelines below to contribute to C.E.L.T_Plus. These are guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## Code of Conduct
 
-By participating, you are expected to uphold this code. Please report unacceptable behavior to sbangal2@ncsu.edu.
+By participating, you are expected to uphold this code. Please report unacceptable behavior to celtplus63@gmail.com
 
 Prerequistes required before starting this project
 
 1. Must be a graduate student at NC State University
-2. Must be a student in Software Engineering Course in Fall 2020
+2. Must be a student in Software Engineering Course in Fall 2023
 3. Have proficiency in Python and Django
 
 ## How can I Contribute -
  
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for SENG20-G19 SE_Project1. 
+This section guides you through submitting a bug report for C.E.L.T_Plus.
 Following these guidelines helps maintainers and the community understand your report, reproduce the behavior and find related reports.
 
 Before Submitting A Bug Report
