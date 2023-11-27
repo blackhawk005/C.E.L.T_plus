@@ -104,10 +104,14 @@ Extend the analysis to the Facebook and LinkedIn Posts
 
 ## Team Members
 
-[Atharva Joshi](https://github.com/aj0671) <br>
-[Shubham Wawale](https://github.com/shubham-wawale) <br>
-[Sahil Purohit](https://github.com/Sahil-18) <br>
-[Shinit Shetty](https://github.com/blackhawk005) <br>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/aj0671"><img src="https://avatars.githubusercontent.com/u/84402767?v=4" width="75px;" alt=""/><br /><sub><b>Atharva Joshi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/shubham-wawale/"><img src="https://avatars.githubusercontent.com/u/63787850?s=400&u=c11a5c9bae68a18540bcb487a3769bd2c4b2ba29&v=4" width="75px;" alt=""/><br /><sub><b>Shubham Wawale</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sal0ni"><img src="https://avatars.githubusercontent.com/u/64455311?v=4" width="75px;" alt=""/><br /><sub><b>Sahil Purohit</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Sahil-18"><img src="https://avatars.githubusercontent.com/u/65714335?v=4" width="75px;" alt=""/><br /><sub><b>Shinit Shetty</b></sub></a><br /></td>
+  </tr>
+</table>
 
 ## Troubleshooting and Support
 Common issues observed and solutions:<br>
