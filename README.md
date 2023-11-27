@@ -2,7 +2,7 @@
 
 # C.E.L.T: The Sentimental Analyser is now C.E.L.T Pro! 
 
-![](celt.gif)
+https://github.com/blackhawk005/C.E.L.T_plus/assets/63787850/b96ecd10-7084-4813-aa85-7a970f701134
 
 ## Watch how our application works: 
 
