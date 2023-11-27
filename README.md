@@ -25,10 +25,6 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-Passing-brightgreen)
 
 
-
-
-
-
 ## What is C.E.L.T?
 
 Sentiment analysis is one of the fastest growing research areas in computer science, making it challenging to keep track of all the activities in the area. In our project we aim to achieve our goal in accurately predicting a users sentiment by analysing the data provided in any of the four different methods. They are Document Analysis, Text Analysis, Product Analysis, Tweet Analysis, Image Analysis and Audio Analysis. This document provides a major perspective for the users to understand and take up the project as an Open source software and add on multiple features before releasing to the market. Also, the document aids the developers in understanding the code and acts as a reference point for starting the project.
@@ -118,8 +114,4 @@ Common issues observed and solutions:<br>
 1. requirements.txt failing: this issue should no longer be seen, as we have used ~= to ensure your systems pick up versions compatible with the other packages. However, if you happen to see the issue, modify the requirements.txt file to use a more recent version.
 2. module manage.py not found: ensure you are inside the sentimental_analysis directory while attempting to run the module
 3. python was not found: we recommend using python3 as some of the modules are available only on Python3. You may either install Python3 or setup a virtual environment(we suggest the latter if you are currently running other applications on python2)
-Facing other issues with the application? Mail us - [teamsoftwareeng7@gmail.com](teamsoftwareeng7@gmail.com)
-
-
-				
-
+Facing other issues with the application? Mail us - [celtplus63@gmail.com](celtplus63@gmail.com)
