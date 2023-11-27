@@ -1,14 +1,16 @@
-# SE Project 2
+# SE Project 3:
 
-# C.E.L.T: The Sentimental Analyser is now C.E.L.T Pro! 
+# C.E.L.T: The Sentimental Analyser is now C.E.L.T Plus! 
 
 ![C E L T_PLUS](https://github.com/blackhawk005/C.E.L.T_plus/assets/63787850/e35c3410-b85e-4d53-be89-12719e3c756f)
 
 ## Watch how our application works: 
 
-[Youtube Video](https://youtu.be/V_F8zJv_IIg) <br>
+[Youtube Video](https://youtu.be/k-cKfP59vlo) <br>
 
 [![DOI](https://zenodo.org/badge/722772372.svg)](https://zenodo.org/doi/10.5281/zenodo.10208268)
+
+[![Stars](https://img.shields.io/github/stars/blackhawk005/C.E.L.T_Plus)](https://img.shields.io/github/stars/blackhawk005/C.E.L.T_Plus)
 
 [![Build Status](https://travis-ci.org/karthikmp5/C.E.L.T_pro.svg?branch=master)](https://travis-ci.org/karthikmp5/C.E.L.T_pro)
 
